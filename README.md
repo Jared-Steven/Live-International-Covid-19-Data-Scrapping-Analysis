@@ -1,0 +1,2 @@
+# Live-International-Covid-19-Data-Scrapping-Analysis
+In this project, I’ve built a web scraper to scrape the data from the public domain and made some analysis &amp; visualization with the scraped data.  This project gives the audience a live visual of the data from the website whenever it’s updated all need to do is just run each and every cell to get the new visual on the available data in an instant.
